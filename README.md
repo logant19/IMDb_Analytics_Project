@@ -2,7 +2,7 @@
 
 ## About Me
 Hi, I’m Logan Thomas — a data enthusiast and aspiring data analyst with a passion for exploring datasets and uncovering insights. 
-This repository showcases my work analyzing IMDb data, from importin raw data to cleaning and final analysis.
+This repository showcases my work analyzing IMDb data, from importing raw data to cleaning and final analysis.
 
 ---
 
