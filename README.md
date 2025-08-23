@@ -26,7 +26,7 @@ This project focuses on exploring the publicly available IMDb datasets to analyz
 ---
 
 ### Notes
-The full IMDb dataset can be found at https://developer.imdb.com/non-commercial-datasets/.  
+The full IMDb dataset can be found at https://developer.imdb.com/non-commercial-datasets/  
 The IMDb dataset is large; some queries may take time to run depending on system resources.
 
 ### License
